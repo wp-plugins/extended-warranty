@@ -1,0 +1,206 @@
+Item,Description,Department,SKU,Retailer Cost,Retail Price
+JEWELRY SVC 12 MOS $200,1YR Warranty + Accident Damage,Warranty,JWA1U200, 	9.79 , 	13.99
+JEWELRY SVC 12 MOS $300,1YR Warranty + Accident Damage,Warranty,JWA1U300, 	13.99 , 	19.99
+JEWELRY SVC 12 MOS $500,1YR Warranty + Accident Damage,Warranty,JWA1U500, 	20.99 , 	29.99
+JEWELRY SVC 12 MOS $1000,1YR Warranty + Accident Damage,Warranty,JWA1U1000, 	41.99 , 	59.99
+JEWELRY SVC 12 MOS $2000,1YR Warranty + Accident Damage,Warranty,JWA1U2000, 	69.99 , 	99.99
+Product Replacement under $50 wADH,1YR Warranty + Drop &Spill Coverage,Warranty,RPA1U50, 	3.49 , 	4.99
+Product Replacement under $100 wADH,1YR Warranty + Drop &Spill Coverage,Warranty,RPA1U100, 	5.59 , 	7.99
+Product Replacement under $150 wADH,1YR Warranty + Drop &Spill Coverage,Warranty,RPA1U150, 	9.09 , 	12.99
+Product Replacement under $200 wADH,1YR Warranty + Drop &Spill Coverage,Warranty,RPA1U200, 	13.99 , 	19.99
+Product Replacement under $250 wADH,1YR Warranty + Drop &Spill Coverage,Warranty,RPA1U250, 	13.99 , 	19.99
+Product Replacement under $400 wADH,1YR Warranty + Drop &Spill Coverage,Warranty,RPA1U400, 	22.39 , 	31.99
+Product Replacement under $500 wADH,1YR Warranty + Drop &Spill Coverage,Warranty,RPA1U500, 	27.99 , 	39.99
+Replacement Plan < $50 - 1 year EXT,Replace Plan-1YR Ext to Mfr Warranty,Warranty,RPL1U50, 	3.49 , 	4.99
+Replacement Plan < $100 - 1 year EXT,Replace Plan-1YR Ext to Mfr Warranty,Warranty,RPL1U100, 	5.59 , 	7.99
+Replacement Plan < $200 - 1 year EXT,Replace Plan-1YR Ext to Mfr Warranty,Warranty,RPL1U200, 	13.99 , 	19.99
+Replacement Plan < $250 - 1 year EXT,Replace Plan-1YR Ext to Mfr Warranty,Warranty,RPL1U250, 	13.99 , 	19.99
+Replacement Plan < $300 - 1 year EXT,Replace Plan-1YR Ext to Mfr Warranty,Warranty,RPL1U300, 	20.99 , 	29.99
+Replacement Plan < $400 - 1 year EXT,Replace Plan-1YR Ext to Mfr Warranty,Warranty,RPL1U400, 	22.39 , 	31.99
+Replacement Plan < $500 - 1 year EXT,Replace Plan-1YR Ext to Mfr Warranty,Warranty,RPL1U500, 	27.99 , 	39.99
+Replacement Plan < $750 - 1 year EXT,Replace Plan-1YR Ext to Mfr Warranty,Warranty,RPL1U750, 	34.99 , 	49.99
+Replacement Plan < $1000 - 1 year EXT,Replace Plan-1YR Ext to Mfr Warranty,Warranty,RPL1U1k, 	48.99 , 	69.99
+Electronics under $100,2YR Warranty + Power Surge Protection,Warranty,ELE2U100, 	6.99 , 	9.99
+Electronics under $150,2YR Warranty + Power Surge Protection,Warranty,ELE2U150, 	10.49 , 	14.99
+Electronics under $200,2YR Warranty + Power Surge Protection,Warranty,ELE2U200, 	10.49 , 	14.99
+Electronics under $250,2YR Warranty + Power Surge Protection,Warranty,ELE2U250, 	13.99 , 	19.99
+Electronics under $500,2YR Warranty + Power Surge Protection,Warranty,ELE2U500, 	34.99 , 	49.99
+Electronics under $750,2YR Warranty + Power Surge Protection,Warranty,ELE2U750, 	41.99 , 	59.99
+Electronics under $1000,2YR Warranty + Power Surge Protection,Warranty,ELE2U1K, 	48.99 , 	69.99
+Electronics < $100 - Drop & Spills Coverage,2YR Warranty + Drop &Spill Coverage,Warranty,ELA2U100, 	20.99 , 	29.99
+Electronics < $150 - Drop & Spills Coverage,2YR Warranty + Drop &Spill Coverage,Warranty,ELA2U150, 	24.49 , 	34.99
+Electronics < $200 - Drop & Spills Coverage,2YR Warranty + Drop &Spill Coverage,Warranty,ELA2U200, 	27.99 , 	39.99
+Electronics < $250 - Drop & Spills Coverage,2YR Warranty + Drop &Spill Coverage,Warranty,ELA2U250, 	31.49 , 	44.99
+Electronics < $500 - Drop & Spills Coverage,2YR Warranty + Drop &Spill Coverage,Warranty,ELA2U500, 	52.49 , 	74.99
+Electronics < $750 - Drop & Spills Coverage,2YR Warranty + Drop &Spill Coverage,Warranty,ELA2U750, 	76.99 , 	109.99
+Electronics < $1000 - Drop & Spills Coverage,2YR Warranty + Drop &Spill Coverage,Warranty,ELA2U1K, 	97.99 , 	139.99
+Cell Phones < $250 - Drop &Spills Coverage,2YR Warranty + Drop &Spill Coverage,Warranty,CEA2U250, 	25.19 , 	35.99
+Cell Phones < $500 - Drop &Spills Coverage,2YR Warranty + Drop &Spill Coverage,Warranty,CEA2U500, 	52.49 , 	74.99
+Cell Phones < $750 - Drop &Spills Coverage,2YR Warranty + Drop &Spill Coverage,Warranty,CEA2U750, 	74.19 , 	105.99
+"Cell Phones < $1,000 - Drop &Spills Coverage",2YR Warranty + Drop &Spill Coverage,Warranty,CEA2U1K, 	101.49 , 	144.99
+"Cell Phones < $1,500 - Drop &Spills Coverage",2YR Warranty + Drop &Spill Coverage,Warranty,CEA2U1500, 	125.99 , 	179.99
+Computers/Laptops/Small Office Eq < $300,2YR Warranty + Power Surge Protection,Warranty,CLN2U300, 	23.09 , 	32.99
+Computers/Laptops/Small Office Eq < $400,2YR Warranty + Power Surge Protection,Warranty,CLN2U400, 	27.99 , 	39.99
+Computers/Laptops/Small Office Eq < $750,2YR Warranty + Power Surge Protection,Warranty,CLN2U750, 	41.99 , 	59.99
+"Computers/Laptops/Small Office Eq < $1,000",2YR Warranty + Power Surge Protection,Warranty,CLN2U1000, 	62.99 , 	89.99
+"Computers/Laptops/Small Office Eq < $2,000",2YR Warranty + Power Surge Protection,Warranty,CLN2U2000, 	90.99 , 	129.99
+"Computers/Laptops/Small Office Eq < $3,000",2YR Warranty + Power Surge Protection,Warranty,CLN2U3000, 	139.99 , 	199.99
+"Computers/Laptops/Small Office Eq < $4,000",2YR Warranty + Power Surge Protection,Warranty,CLN2U4000, 	209.99 , 	299.99
+Computers/Laptops/Small Office Eq < $750,2YR Warranty + Drop &Spill Coverage,Warranty,CLA2U750, 	118.99 , 	169.99
+"Computers/Laptops/Small Office Eq < $1,000",2YR Warranty + Drop &Spill Coverage,Warranty,CLA2U1K, 	125.99 , 	179.99
+"Computers/Laptops/Small Office Eq < $2,000",2YR Warranty + Drop &Spill Coverage,Warranty,CLA2U2K, 	181.99 , 	259.99
+"Computers/Laptops/Small Office Eq < $3,000",2YR Warranty + Drop &Spill Coverage,Warranty,CLA2U3K, 	258.99 , 	369.99
+"Computers/Laptops/Small Office Eq < $4,000",2YR Warranty + Drop &Spill Coverage,Warranty,CLA2U4K, 	342.99 , 	489.99
+"Computers/Laptops/Small Office Eq < $5,000",2YR Warranty + Drop &Spill Coverage,Warranty,CLA2U5K, 	419.99 , 	599.99
+Home Audio Under $100,2YR Warranty + Power Surge Protection,Warranty,AUD2U100, 	6.99 , 	9.99
+Home Audio Under $250,2YR Warranty + Power Surge Protection,Warranty,AUD2U250, 	13.99 , 	19.99
+Home Audio Under $300,2YR Warranty + Power Surge Protection,Warranty,AUD2U300, 	20.99 , 	29.99
+Home Audio Under $500,2YR Warranty + Power Surge Protection,Warranty,AUD2U500, 	20.99 , 	29.99
+"Home Audio Under $1,000",2YR Warranty + Power Surge Protection,Warranty,AUD2U1K, 	34.99 , 	49.99
+"Home Audio Under $1,500",2YR Warranty + Power Surge Protection,Warranty,AUD2U1500, 	69.99 , 	99.99
+"Home Audio Under $2,500",2YR Warranty + Power Surge Protection,Warranty,AUD2U2500, 	139.99 , 	199.99
+"Home Audio Under $5,000",2YR Warranty + Power Surge Protection,Warranty,AUD2U5K, 	279.99 , 	399.99
+"Home Audio Under $7,500",2YR Warranty + Power Surge Protection,Warranty,AUD2U7500, 	419.99 , 	599.99
+Camera/Camcorder under $500,2YR Warranty + Drop &Spill Coverage,Warranty,CMA2U500, 	38.49 , 	54.99
+"Camera/Camcorder under $1,000",2YR Warranty + Drop &Spill Coverage,Warranty,CMA2U1K, 	83.99 , 	119.99
+"Camera/Camcorder under $2,500",2YR Warranty + Drop &Spill Coverage,Warranty,CMA2U2500, 	139.99 , 	199.99
+"Camera/Camcorder under $5,000",2YR Warranty + Drop &Spill Coverage,Warranty,CMA2U5K, 	279.99 , 	399.99
+"Camera/Camcorder under $7,500",2YR Warranty + Drop &Spill Coverage,Warranty,CMA2U7500, 	349.99 , 	499.99
+"Camera/Camcorder Under $10,000",2YR Warranty + Drop &Spill Coverage,Warranty,CMA2U10K, 	559.99 , 	799.99
+ JEWELRY SVC 24 MOS $200,2YR Warranty + Accident Damage,Warranty,JWA2U200, 	18.19 , 	25.99
+ JEWELRY SVC 24 MOS $300,2YR Warranty + Accident Damage,Warranty,JWA2U300, 	27.99 , 	39.99
+ JEWELRY SVC 24 MOS $500,2YR Warranty + Accident Damage,Warranty,JWA2U500, 	41.99 , 	59.99
+ JEWELRY SVC 24 MOS $1000,2YR Warranty + Accident Damage,Warranty,JWA2U1000, 	69.99 , 	99.99
+ JEWELRY SVC 24 MOS $2000,2YR Warranty + Accident Damage,Warranty,JWA2U2000, 	160.99 , 	229.99
+Replacent Plan under $50 - 2 year EXT,Replace Plan-2YR Ext to Mfr Warranty,Warranty,RPL2U50, 	6.99 , 	9.99
+Replacent Plan under $100 - 2 year EXT,Replace Plan-2YR Ext to Mfr Warranty,Warranty,RPL2U100, 	13.99 , 	19.99
+Replacent Plan under $200 - 2 year EXT,Replace Plan-2YR Ext to Mfr Warranty,Warranty,RPL2U200, 	20.99 , 	29.99
+Replacent Plan under $250 - 2 year EXT,Replace Plan-2YR Ext to Mfr Warranty,Warranty,RPL2U250, 	27.99 , 	39.99
+Replacent Plan under $300 - 2 year EXT,Replace Plan-2YR Ext to Mfr Warranty,Warranty,RPL2U300, 	34.99 , 	49.99
+Replacent Plan under $400 - 2 year EXT,Replace Plan-2YR Ext to Mfr Warranty,Warranty,RPL2U400, 	44.79 , 	63.99
+Replacent Plan under $500 - 2 year EXT,Replace Plan-2YR Ext to Mfr Warranty,Warranty,RPL2U500, 	55.99 , 	79.99
+Replacent Plan under $750 - 2 year EXT,Replace Plan-2YR Ext to Mfr Warranty,Warranty,RPL2U750, 	69.99 , 	99.99
+Replacent Plan under $1000 - 2 year EXT,Replace Plan-2YR Ext to Mfr Warranty,Warranty,RPL2U1k, 	90.99 , 	129.99
+Product Replacement under $50 wADH,2YR Warranty + Drop &Spill Coverage,Warranty,RPA2U50, 	4.89 , 	6.99
+Product Replacement under $100 wADH,2YR Warranty + Drop &Spill Coverage,Warranty,RPA2U100, 	6.99 , 	9.99
+Product Replacement under $150 wADH,2YR Warranty + Drop &Spill Coverage,Warranty,RPA2U150, 	20.99 , 	29.99
+Product Replacement under $200 wADH,2YR Warranty + Drop &Spill Coverage,Warranty,RPA2U200, 	27.99 , 	39.99
+Product Replacement under $250 wADH,2YR Warranty + Drop &Spill Coverage,Warranty,RPA2U250, 	27.99 , 	39.99
+Product Replacement under $400 wADH,2YR Warranty + Drop &Spill Coverage,Warranty,RPA2U400, 	41.99 , 	59.99
+Product Replacement under $500 wADH,2YR Warranty + Drop &Spill Coverage,Warranty,RPA2U500, 	41.99 , 	59.99
+Electronics under $100,3YR Warranty + Power Surge Protection,Warranty,ELE3U100, 	10.49 , 	14.99
+Electronics under $150,3YR Warranty + Power Surge Protection,Warranty,ELE3U150, 	13.99 , 	19.99
+Electronics under $200,3YR Warranty + Power Surge Protection,Warranty,ELE3U200, 	20.99 , 	29.99
+Electronics under $250,3YR Warranty + Power Surge Protection,Warranty,ELE3U250, 	24.49 , 	34.99
+Electronics under $500,3YR Warranty + Power Surge Protection,Warranty,ELE3U500, 	48.99 , 	69.99
+Electronics under $750,3YR Warranty + Power Surge Protection,Warranty,ELE3U750, 	55.99 , 	79.99
+Electronics under $1000,3YR Warranty + Power Surge Protection,Warranty,ELE3U1K, 	69.99 , 	99.99
+Electronics under $100 - Drop & Spill Coverage,3YR Warranty + Drop &Spill Coverage,Warranty,ELA3U100, 	34.99 , 	49.99
+Electronics under $150 - Drop & Spill Coverage,3YR Warranty + Drop &Spill Coverage,Warranty,ELA3U150, 	38.49 , 	54.99
+Electronics under $200 - Drop & Spill Coverage,3YR Warranty + Drop &Spill Coverage,Warranty,ELA3U200, 	38.49 , 	54.99
+Electronics under $250 - Drop & Spill Coverage,3YR Warranty + Drop &Spill Coverage,Warranty,ELA3U250, 	48.99 , 	69.99
+Electronics under $500 - Drop & Spill Coverage,3YR Warranty + Drop &Spill Coverage,Warranty,ELA3U500, 	80.49 , 	114.99
+Electronics under $750 - Drop & Spill Coverage,3YR Warranty + Drop &Spill Coverage,Warranty,ELA3U750, 	115.49 , 	164.99
+Electronics under $1000 - Drop & Spill Coverage,3YR Warranty + Drop &Spill Coverage,Warranty,ELA3U1K, 	139.99 , 	199.99
+Cell Phones Under $250,3YR Warranty + Drop &Spill Coverage,Warranty,CEA3U250, 	34.99 , 	49.99
+Cell Phones Under $500,3YR Warranty + Drop &Spill Coverage,Warranty,CEA3U500, 	69.99 , 	99.99
+Cell Phones Under $750,3YR Warranty + Drop &Spill Coverage,Warranty,CEA3U750, 	104.99 , 	149.99
+"Cell Phones Under $1,000",3YR Warranty + Drop &Spill Coverage,Warranty,CEA3U1K, 	139.99 , 	199.98
+"Cell Phones Under $1,500",3YR Warranty + Drop &Spill Coverage,Warranty,CEA3U1500, 	174.99 , 	249.99
+Computers/Laptops/Small Office Eq < $300,3YR Warranty + Power Surge Protection,Warranty,CLN3U300, 	34.99 , 	49.99
+Computers/Laptops/Small Office Eq < $400,3YR Warranty + Power Surge Protection,Warranty,CLN3U400, 	41.99 , 	59.99
+Computers/Laptops/Small Office Eq < $750,3YR Warranty + Power Surge Protection,Warranty,CLN3U750, 	69.99 , 	99.99
+"Computers/Laptops/Small Office Eq < $1,000",3YR Warranty + Power Surge Protection,Warranty,CLN3U1000, 	97.99 , 	139.99
+"Computers/Laptops/Small Office Eq < $2,000",3YR Warranty + Power Surge Protection,Warranty,CLN3U2000, 	139.99 , 	199.99
+"Computers/Laptops/Small Office Eq < $3,000",3YR Warranty + Power Surge Protection,Warranty,CLN3U3000, 	209.99 , 	299.99
+"Computers/Laptops/Small Office Eq < $4,000",3YR Warranty + Power Surge Protection,Warranty,CLN3U4000, 	279.99 , 	399.99
+Computers/Laptops/Small Office Eq < $750,3YR Warranty + Drop &Spill Coverage,Warranty,CLA3U300, 	169.99 , 	199.99
+"Computers/Laptops/Small Office Eq < $1,000",3YR Warranty + Drop &Spill Coverage,Warranty,CLA3U1K, 	169.99 , 	224.99
+"Computers/Laptops/Small Office Eq < $2,000",3YR Warranty + Drop &Spill Coverage,Warranty,CLA3U2K, 	244.99 , 	349.99
+"Computers/Laptops/Small Office Eq < $3,000",3YR Warranty + Drop &Spill Coverage,Warranty,CLA3U3K, 	349.99 , 	499.99
+"Computers/Laptops/Small Office Eq < $4,000",3YR Warranty + Drop &Spill Coverage,Warranty,CLA3U4K, 	419.99 , 	599.99
+"Computers/Laptops/Small Office Eq < $5,000",3YR Warranty + Drop &Spill Coverage,Warranty,CLA3U5K, 	489.99 , 	699.99
+Home Audio Under $100,3YR Warranty + Power Surge Protection,Warranty,AUD3U100, 	10.49 , 	14.99
+Home Audio Under $250,3YR Warranty + Power Surge Protection,Warranty,AUD3U250, 	24.49 , 	34.99
+Home Audio Under $300,3YR Warranty + Power Surge Protection,Warranty,AUD3U300, 	31.49 , 	44.99
+Home Audio Under $500,3YR Warranty + Power Surge Protection,Warranty,AUD3U500, 	48.99 , 	69.99
+"Home Audio Under $1,000",3YR Warranty + Power Surge Protection,Warranty,AUD3U1K, 	55.99 , 	79.99
+"Home Audio Under $1,500",3YR Warranty + Power Surge Protection,Warranty,AUD3U1500, 	139.99 , 	199.99
+"Home Audio Under $2,500",3YR Warranty + Power Surge Protection,Warranty,AUD3U2500, 	181.99 , 	259.99
+"Home Audio Under $5,000",3YR Warranty + Power Surge Protection,Warranty,AUD3U5K, 	349.99 , 	499.99
+"Home Audio Under $7,500",3YR Warranty + Power Surge Protection,Warranty,AUD3U7500, 	489.99 , 	699.99
+Camera/Camcorder under $500,3YR Warranty + Drop &Spill Coverage,Warranty,CMA3U500, 	55.99 , 	79.99
+"Camera/Camcorder under $1,000",3YR Warranty + Drop &Spill Coverage,Warranty,CMA3U1K, 	118.99 , 	169.99
+"Camera/Camcorder under $2,500",3YR Warranty + Drop &Spill Coverage,Warranty,CMA3U2500, 	304.49 , 	434.99
+"Camera/Camcorder under $5,000",3YR Warranty + Drop &Spill Coverage,Warranty,CMA3U5K, 	475.99 , 	679.99
+"Camera/Camcorder under $7,500",3YR Warranty + Drop &Spill Coverage,Warranty,CMA3U7500, 	699.99 , 	999.99
+Televisions Under $500,3YR Warranty + Power Surge Protection,Warranty,TVA3UI500, 	41.99 , 	59.99
+Televisions Under $750,3YR Warranty + Power Surge Protection,Warranty,TVA3U750, 	55.99 , 	79.99
+"Televisions Under $1,000",3YR Warranty + Power Surge Protection,Warranty,TVA3U1K, 	76.99 , 	109.99
+"Televisions Under $2,000",3YR Warranty + Power Surge Protection,Warranty,TVA3U2K, 	139.99 , 	199.99
+"Televisions Under $2,500",3YR Warranty + Power Surge Protection,Warranty,TVA3U2500, 	139.99 , 	199.99
+"Televisions Under $4,000",3YR Warranty + Power Surge Protection,Warranty,TVA3U4K, 	209.99 , 	299.99
+"Televisions Under $10,000",3YR Warranty + Power Surge Protection,Warranty,TVA3U10K, 	349.99 , 	499.99
+Small Appliances Under $100,2YR Ext to Mfr Warranty + Power Surge ,Warranty,SAP2U100, 	9.79 , 	13.99
+Small Appliances Under $150,2YR Ext to Mfr Warranty + Power Surge ,Warranty,SAP2U150, 	13.99 , 	19.99
+Small Appliances Under $200,2YR Ext to Mfr Warranty + Power Surge ,Warranty,SAP2U200, 	19.59 , 	27.99
+Small Appliances Under $250,2YR Ext to Mfr Warranty + Power Surge ,Warranty,SAP2U250, 	23.09 , 	32.99
+Small Appliances Under $500,2YR Ext to Mfr Warranty + Power Surge ,Warranty,SAP2U500, 	41.99 , 	59.99
+Small Appliances Under $750,2YR Ext to Mfr Warranty + Power Surge ,Warranty,SAP2U750, 	55.99 , 	79.99
+"Small Appliances Under $1,000",2YR Ext to Mfr Warranty + Power Surge ,Warranty,SAP2U1K, 	69.99 , 	99.99
+Lawn & Garden Depot under $500,3YR Warranty + Power Surge Protection,Warranty,LAG3U500, 	69.99 , 	99.99
+Lawn & Garden Depot under $700,3YR Warranty + Power Surge Protection,Warranty,LAG3U700, 	90.99 , 	129.99
+Lawn & Garden Depot under $1000,3YR Warranty + Power Surge Protection,Warranty,LAG3U1K, 	111.99 , 	159.99
+Lawn & Garden Depot under $1500,3YR Warranty + Power Surge Protection,Warranty,LAG3U1500, 	139.99 , 	199.99
+Lawn & Garden Depot under $3000,3YR Warranty + Power Surge Protection,Warranty,LAG3U3K, 	209.99 , 	299.99
+Furniture Under $200,3YR Warranty + Accident Damage,Warranty,FUR3U200, 	11.19 , 	15.99
+Furniture Under $300,3YR Warranty + Accident Damage,Warranty,FUR3U300, 	13.99 , 	19.99
+Furniture Under $500,3YR Warranty + Accident Damage,Warranty,FUR3U500, 	27.99 , 	39.99
+Furniture Under $700,3YR Warranty + Accident Damage,Warranty,FUR3U700, 	34.99 , 	49.99
+"Furniture Under $1,000",3YR Warranty + Accident Damage,Warranty,FUR3U1K, 	48.99 , 	69.99
+"Furniture Under $1,500",3YR Warranty + Accident Damage,Warranty,FUR3U1500, 	69.99 , 	99.99
+"Furniture Under $2,000",3YR Warranty + Accident Damage,Warranty,FUR3U2K, 	90.99 , 	129.99
+"Furniture Under $3,000",3YR Warranty + Accident Damage,Warranty,FUR3U3K, 	125.99 , 	179.99
+"Furniture Under $4,000",3YR Warranty + Accident Damage,Warranty,FUR3U4K, 	160.99 , 	229.99
+"Furniture Under $5,000",3YR Warranty + Accident Damage,Warranty,FUR3U5K, 	188.99 , 	269.99
+"Furniture Under $6,000",3YR Warranty + Accident Damage,Warranty,FUR3U6K, 	279.99 , 	399.99
+"Major Appliances Under $1,500",3YR Warranty + Power Surge Protection,Warranty,APP3U1500,69.99,99.99
+"Major Appliances Under $30,000",3YR Warranty + Power Surge Protection,Warranty,APP3U30K,699.99,999.99
+Washers/Dryers,3YR Warranty + Power Surge Protection,Warranty,FLW3,90.99,129.99
+"Commercial Appliances Onsite under $1,500",3YR Enhanced Warranty - includes labor,Warranty,COM3U1500, 	209.99 , 	299.99
+"Commercial Appliances Onsite under $15,000",3YR Enhanced Warranty - includes labor,Warranty,COM3U15K, 	559.99 , 	799.99
+Small Appliances Under $100,4YR Ext to Mfr Warranty + Power Surge Protection,Warranty,SAP4U100, 	19.59 , 	27.99
+Small Appliances Under $150,4YR Ext to Mfr Warranty + Power Surge Protection,Warranty,SAP4U150, 	30.09 , 	42.99
+Small Appliances Under $200,4YR Ext to Mfr Warranty + Power Surge Protection,Warranty,SAP4U200, 	39.19 , 	55.99
+Small Appliances Under $250,4YR Ext to Mfr Warranty + Power Surge Protection,Warranty,SAP4U250, 	46.19 , 	65.99
+Small Appliances Under $500,4YR Ext to Mfr Warranty + Power Surge Protection,Warranty,SAP4U500, 	83.99 , 	119.99
+Small Appliances Under $750,4YR Ext to Mfr Warranty + Power Surge Protection,Warranty,SAP4U750, 	125.99 , 	179.99
+"Small Appliances Under $1,000",4YR Ext to Mfr Warranty + Power Surge Protection,Warranty,SAP4U1K, 	139.99 , 	199.99
+"Major Appliances Under $1,500",5YR Warranty + Power Surge Protection,Warranty,APP5U1500, 	181.99 , 	259.99
+"Major Appliances Under $30,000",5YR Warranty + Power Surge Protection,Warranty,APP5U30K,1399.99,1999.99
+Washers/Dryers,5YR Warranty + Power Surge Protection,Warranty,FLW5,181.99,259.99
+Commercial Appliances Onsite under $1500,5YR Enhanced Warranty - includes labor,Warranty,COM5U1500,349.99,499.99
+Commercial Appliances Onsite under $15000,5YR Enhanced Warranty - includes labor,Warranty,COM5U15K,1049.99,1,499.99
+Furniture Under $200,5YR Warranty + Accident Damage,Warranty,FUR5U200, 	17.49 , 	24.99
+Furniture Under $300,5YR Warranty + Accident Damage,Warranty,FUR5U300, 	26.59 , 	37.99
+Furniture Under $500,5YR Warranty + Accident Damage,Warranty,FUR5U500, 	41.99 , 	59.99
+Furniture Under $700,5YR Warranty + Accident Damage,Warranty,FUR5U700, 	55.99 , 	79.99
+"Furniture Under $1,000",5YR Warranty + Accident Damage,Warranty,FUR5U1K, 	83.99 , 	119.99
+"Furniture Under $1,500",5YR Warranty + Accident Damage,Warranty,FUR5U1500, 	104.99 , 	149.99
+"Furniture Under $2,000",5YR Warranty + Accident Damage,Warranty,FUR5U2K, 	125.99 , 	179.99
+"Furniture Under $3,000",5YR Warranty + Accident Damage,Warranty,FUR5U3K, 	181.99 , 	259.99
+"Furniture Under $4,000",5YR Warranty + Accident Damage,Warranty,FUR5U4K, 	251.99 , 	359.99
+"Furniture Under $5,000",5YR Warranty + Accident Damage,Warranty,FUR5U5K, 	279.99 , 	399.99
+"Furniture Under $6,000",5YR Warranty + Accident Damage,Warranty,FUR5U6K, 	419.99 , 	599.99
+Televisions Under $500,5YR Warranty + Power Surge Protection,Warranty,TVA5UI500, 	69.99 , 	99.99
+Televisions Under $750,5YR Warranty + Power Surge Protection,Warranty,TVA5U750, 	76.99 , 	109.99
+"Televisions Under $1,000",5YR Warranty + Power Surge Protection,Warranty,TVA5U1K, 	118.99 , 	169.99
+"Televisions Under $2,000",5YR Warranty + Power Surge Protection,Warranty,TVA5U2K, 	139.99 , 	199.99
+"Televisions Under $2,500",5YR Warranty + Power Surge Protection,Warranty,TVA5U2500, 	188.99 , 	269.99
+"Televisions Under $4,000",5YR Warranty + Power Surge Protection,Warranty,TVA5U4K, 	279.99 , 	399.99
+"Major Appliances Under $3,500",3YR Warranty + Power Surge Protection,Warranty,GAPP3U3500,139.99,199.99
+"Major Appliances Under $7,000",3YR Warranty + Power Surge Protection,Warranty,GAPP3U7000,244.99,349.99
+"Major Appliances Under $10,000",3YR Warranty + Power Surge Protection,Warranty,GAPP3U10000,489.99,699.99
+"Major Appliances Under $3,500",5YR Warranty + Power Surge Protection,Warranty,GAPP5U3500,244.99,349.99
+"Major Appliances Under $7,000",5YR Warranty + Power Surge Protection,Warranty,GAPP5U7000,419.99,599.99
+"Major Appliances Under $10,000",5YR Warranty + Power Surge Protection,Warranty,GAPP5U10000,909.99,1299.99
