@@ -51,7 +51,7 @@ add_filter( 'plugin_action_links_' . plugin_basename( __FILE__ ), 'assurinty_glo
  */
 function assurinty_global_init() {
 
-	$GLOBALS['ag_wc_logger'] = new WC_extendeLogger();
+	$GLOBALS['ag_wc_logger'] = new WC_Logger();
 
     if ( is_admin() )
         include_once( 'classes/admin/class-assurinty-global-admin.php' );
