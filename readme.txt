@@ -38,7 +38,9 @@ None.
 
 == Screenshots ==
 
-None.
+1. Keep the look and feel of you shopping cart without additional programming.
+2. Automatically offer extended service plans in your customers’ shipping carts.
+3. Customers can choose to add warranties to their cart on the cart page.
 
 == Changelog ==
 
